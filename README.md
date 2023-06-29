@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=996)
 
 <h1 align="center">Hi 👋, I'm Dillan</h1>
-<h3 align="center">A passionate frontend developer from colombia</h3>
+<h3 align="center">A passionate frontend developer from colombia :)</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47iyfeu607d4nc0y690h3n59wfww5xhqwlte2sxpja&rid=giphy.gif&ct=g">
 
